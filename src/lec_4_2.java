@@ -1,0 +1,7 @@
+public class lec_4_2 {
+    public static void main(String[] args) {
+        short shortNum = 257;
+        byte byteNum = (byte)shortNum;
+        System.out.println(byteNum);
+    }
+}
