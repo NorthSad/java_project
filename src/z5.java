@@ -12,3 +12,4 @@ public class z5 {
         System.out.println("Значение выражения: "+a);
     }
 }
+

@@ -20,7 +20,5 @@ public class z9_7 {
             System.out.println("Треугольник равнобедренный");
         if (a == 60 && b == 60 && c == 60)
             System.out.println("треугольник равносторонний");
-
-
     }
 }

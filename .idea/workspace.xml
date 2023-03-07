@@ -5,8 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="453f7629-6753-481b-94f3-3d78152d843f" name="Changes" comment="hi">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec_4_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z10_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z11_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z12_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z13_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z14_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z15_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z16_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z17_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z18_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z19_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z20_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z21_.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/z5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/z7_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z7_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/z9_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z9_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Программирование/~$чёт по лекции 4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/отчёт по лекции 2, Борисков Д.А..docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/отчёт по лекции 3 Борисков Д.А..docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,40 +73,41 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.lec_3_3_d">
-    <configuration name="lec_3_3_a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lec_3_3_a" />
+  <component name="RunManager" selected="Application.z20_1">
+    <configuration name="z14_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="z14_6" />
       <module name="java_project" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lec_3_3_b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lec_3_3_b" />
+    <configuration name="z17_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="z17_10" />
       <module name="java_project" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lec_3_3_c" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lec_3_3_c" />
+    <configuration name="z18_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="z18_1" />
       <module name="java_project" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lec_3_3_d" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lec_3_3_d" />
+    <configuration name="z19_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="z19_1" />
       <module name="java_project" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="wrapp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wrapp" />
+    <configuration name="z20_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="z20_1" />
       <module name="java_project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lec_3_3_d" />
-        <item itemvalue="Application.lec_3_3_c" />
-        <item itemvalue="Application.lec_3_3_b" />
-        <item itemvalue="Application.lec_3_3_a" />
-        <item itemvalue="Application.wrapp" />
+        <item itemvalue="Application.z20_1" />
+        <item itemvalue="Application.z19_1" />
+        <item itemvalue="Application.z14_6" />
+        <item itemvalue="Application.z18_1" />
+        <item itemvalue="Application.z17_10" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +167,49 @@
       <option name="project" value="LOCAL" />
       <updated>1676758492972</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="hi">
+      <created>1676759035467</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676759035467</updated>
+    </task>
+    <task id="LOCAL-00007" summary="hi">
+      <created>1676759214741</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676759214741</updated>
+    </task>
+    <task id="LOCAL-00008" summary="hi">
+      <created>1677512250626</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677512250626</updated>
+    </task>
+    <task id="LOCAL-00009" summary="hi">
+      <created>1677515306957</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1677515306957</updated>
+    </task>
+    <task id="LOCAL-00010" summary="hi">
+      <created>1677858460774</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677858460774</updated>
+    </task>
+    <task id="LOCAL-00011" summary="hi">
+      <created>1678139021722</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1678139021722</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

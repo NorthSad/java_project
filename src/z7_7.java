@@ -9,7 +9,8 @@ public class z7_7 {
         chears = in.nextInt();
         if (chears>=students)
             System.out.println("Ученикам есть где сесть.");
-        else System.out.println("Ученикак не хватит мест.");
+        else System.out.println("Ученикам не хватит мест.");
     }
 
 }
+
