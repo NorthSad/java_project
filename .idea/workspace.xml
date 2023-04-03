@@ -5,19 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="453f7629-6753-481b-94f3-3d78152d843f" name="Changes" comment="hi">
-      <change afterPath="$PROJECT_DIR$/src/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lec_4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lec_9_1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lec_9_1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lec_9_2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lec_9_2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lec_9_2_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lec_9_2_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec_11_copy_objectDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec_11_stat_m.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec_11_stat_p.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_project/z20_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Программирование/~$чёт по лекции 9, Борисков Д.А.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Программирование/~$чёт по лекции 9, Борисков Д.А.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Программирование/~WRL0762.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Программирование/отчёт по лекции 9, Борисков Д.А.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Программирование/отчёт по лекции 9, Борисков Д.А.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Программная инженерия/пи 1 отчёт.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Программная инженерия/пи 1 отчёт.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,36 +64,36 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.lec_9_2_4 (1)">
-    <configuration name="lec_9_1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lec_9_1_2" />
+  <component name="RunManager" selected="Application.lec_11_copy_objectDemo">
+    <configuration name="lec_11_copy_objectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lec_11_copy_objectDemo" />
       <module name="java_project" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lec_9_2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lec_9_2_2" />
+    <configuration name="lec_11_stat_m" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lec_11_stat_m" />
       <module name="java_project" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lec_9_2_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lec_9_2_3" />
+    <configuration name="lec_11_stat_p" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lec_11_stat_p" />
       <module name="java_project" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lec_9_2_4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="lec_9_2_4 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lec_9_2_4" />
       <module name="java_project" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lec_9_2_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="lec_9_2_4 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lec_9_2_4" />
       <module name="java_project" />
       <method v="2">
@@ -107,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lec_9_2_4 (1)" />
-        <item itemvalue="Application.lec_9_2_4" />
-        <item itemvalue="Application.lec_9_2_3" />
-        <item itemvalue="Application.lec_9_2_2" />
-        <item itemvalue="Application.lec_9_1_2" />
+        <item itemvalue="Application.lec_11_copy_objectDemo" />
+        <item itemvalue="Application.lec_11_stat_m" />
+        <item itemvalue="Application.lec_11_stat_p" />
+        <item itemvalue="Application.lec_9_2_4 (3)" />
+        <item itemvalue="Application.lec_9_2_4 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +217,28 @@
       <option name="project" value="LOCAL" />
       <updated>1679607871866</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="hi">
+      <created>1679852895331</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1679852895331</updated>
+    </task>
+    <task id="LOCAL-00016" summary="hi">
+      <created>1679852927681</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1679852927681</updated>
+    </task>
+    <task id="LOCAL-00017" summary="hi">
+      <created>1679853047236</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1679853047236</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
