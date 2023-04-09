@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="453f7629-6753-481b-94f3-3d78152d843f" name="Changes" comment="hi">
-      <change afterPath="$PROJECT_DIR$/src/lec_10_1156.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec_12/lec_12_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec_12/lec_12_2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec_12/lec_12_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec_12/lec_12_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec_12/lec_12_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,49 +75,79 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.lec_10_1156">
-    <configuration name="lec_10_1156" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lec_10_1156" />
+  <component name="RunManager" selected="Application.lec_12_5">
+    <configuration name="lec_12_3 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lec_12.lec_12_3" />
       <module name="java_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lec_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lec_11_copy_objectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lec_11_copy_objectDemo" />
+    <configuration name="lec_12_3 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lec_12.lec_12_3" />
       <module name="java_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lec_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lec_11_stat_m" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lec_11_stat_m" />
+    <configuration name="lec_12_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lec_12.lec_12_3" />
       <module name="java_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lec_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lec_11_stat_p" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lec_11_stat_p" />
+    <configuration name="lec_12_4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lec_12.lec_12_4_1" />
       <module name="java_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lec_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lec_9_2_4 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lec_9_2_4" />
+    <configuration name="lec_12_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lec_12.lec_12_5" />
       <module name="java_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lec_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lec_10_1156" />
-        <item itemvalue="Application.lec_11_copy_objectDemo" />
-        <item itemvalue="Application.lec_11_stat_m" />
-        <item itemvalue="Application.lec_11_stat_p" />
-        <item itemvalue="Application.lec_9_2_4 (3)" />
+        <item itemvalue="Application.lec_12_5" />
+        <item itemvalue="Application.lec_12_4_1" />
+        <item itemvalue="Application.lec_12_3 (3)" />
+        <item itemvalue="Application.lec_12_3" />
+        <item itemvalue="Application.lec_12_3 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +286,28 @@
       <option name="project" value="LOCAL" />
       <updated>1680480305552</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="hi">
+      <created>1680807506386</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1680807506386</updated>
+    </task>
+    <task id="LOCAL-00020" summary="hi">
+      <created>1680807519120</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1680807519120</updated>
+    </task>
+    <task id="LOCAL-00021" summary="hi">
+      <created>1680807668118</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1680807668118</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -286,5 +341,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hi" />
     <option name="LAST_COMMIT_MESSAGE" value="hi" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
