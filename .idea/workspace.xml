@@ -5,34 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="453f7629-6753-481b-94f3-3d78152d843f" name="Changes" comment="hi">
-      <change afterPath="$PROJECT_DIR$/src/gl_8/AbstractDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gl_8/InterfaceRefDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gl_8/OverrideDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gl_8/PrivateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gl_8/SubClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gl_8/SubRefDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gl_8/UsingInterfaceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06_04_2023_22_05_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06_04_2023_22_05__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec_14/lec_14_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec_14/lec_14_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z10_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z11_13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z12_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z13_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z14_6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z15_7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z16_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z17_10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z18_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z19_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z20_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z21_.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z4_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z6_5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z7_7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z8_11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z9_7.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,13 +72,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.InterfaceRefDemo">
-    <configuration name="AbstractDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gl_8.AbstractDemo" />
+  <component name="RunManager" selected="Application.lec_14_2 (1)">
+    <configuration name="lec_14_1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lec_14.lec_14_1" />
       <module name="java_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gl_8.*" />
+          <option name="PATTERN" value="lec_14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceRefDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gl_8.InterfaceRefDemo" />
+    <configuration name="lec_14_1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lec_14.lec_14_1" />
       <module name="java_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gl_8.*" />
+          <option name="PATTERN" value="lec_14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubClassDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gl_8.SubClassDemo" />
+    <configuration name="lec_14_1 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lec_14.lec_14_1" />
       <module name="java_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gl_8.*" />
+          <option name="PATTERN" value="lec_14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsingInterfaceDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gl_8.UsingInterfaceDemo" />
+    <configuration name="lec_14_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lec_14.lec_14_1" />
       <module name="java_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gl_8.*" />
+          <option name="PATTERN" value="lec_14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +125,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsingInterfaceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gl_8.UsingInterfaceDemo" />
+    <configuration name="lec_14_2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lec_14.lec_14_2" />
       <module name="java_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gl_8.*" />
+          <option name="PATTERN" value="lec_14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lec_14_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lec_14.lec_14_2" />
+      <module name="java_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lec_14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InterfaceRefDemo" />
-        <item itemvalue="Application.UsingInterfaceDemo (1)" />
-        <item itemvalue="Application.UsingInterfaceDemo" />
-        <item itemvalue="Application.SubClassDemo" />
-        <item itemvalue="Application.AbstractDemo" />
+        <item itemvalue="Application.lec_14_2 (1)" />
+        <item itemvalue="Application.lec_14_2" />
+        <item itemvalue="Application.lec_14_1 (3)" />
+        <item itemvalue="Application.lec_14_1 (2)" />
+        <item itemvalue="Application.lec_14_1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +331,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681156388036</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="hi">
+      <created>1681512656452</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1681512656452</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
